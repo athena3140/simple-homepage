@@ -1,4 +1,4 @@
-## **Code Lab Project: News Homepage**
+## **Code Lab Project : <ins>Simple Homepage<ins>**
 
 As part of my certification program with ***[Code Lab](https://www.facebook.com/codelab.mm)***, I was tasked with creating a mobile fully responsive website using only HTML and CSS. My tutor provided me with this challenge, and I found a reference design on [Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl).
 
